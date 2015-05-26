@@ -1,1 +1,2 @@
 *.blend* filter=lfs diff=lfs merge=lfs -crlf
+*.fbx filter=lfs diff=lfs merge=lfs -crlf
